@@ -13,7 +13,7 @@
                     </svg>
                     <h5 class="font-sans text-md font-light mb-2">ADDRESS</h5>
                 </div>
-                <p class="font-sri text-lg text-dark-brown mb-8">Jl. Sumbersari 4 No. 62, Kota Malang, Jawa Timur, Indonesia 65145</p>
+                <p class="font-sri text-lg text-dark-brown mb-8">Jl. Jalan No. 1001, Malang, Jawa Timur, Indonesia</p>
             </div>
           <div>
             <div class="flex items-center space-x-3">
@@ -22,7 +22,7 @@
                 </svg>
                 <h5 class="font-sans text-md font-light mb-2">TELEPHONE</h5>
             </div>
-            <p class="font-sri text-lg text-dark-brown mb-8">+62 8514-523-2444</p>
+            <p class="font-sri text-lg text-dark-brown mb-8">+62 8123-456-7890</p>
           </div>
           <div>
             <div class="flex items-center space-x-3">
@@ -33,7 +33,7 @@
 
                 <h5 class="font-sans text-md font-light mb-2">E-MAIL</h5>
             </div>
-            <p class="font-sri text-lg text-dark-brown mb-8">ameliakw22@gmail.com</p>
+            <p class="font-sri text-lg text-dark-brown mb-8">iniemail@gmail.com</p>
           </div>
         </div>
       </div>
